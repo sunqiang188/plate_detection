@@ -50,3 +50,5 @@ Run from CLI:
 - YOLO v5 repo: https://github.com/ultralytics/yolov5
 - YOLOv5 Runtime Stack repo: https://github.com/zhiqwang/yolov5-rt-stack
 - ONNXRuntime Inference examples: https://github.com/itsnine/yolov5-onnxruntime 
+- 车牌检测：https://github.com/we0091234/Chinese_license_plate_detection_recognition
+- 车牌识别：https://github.com/we0091234/crnn_plate_recognition
